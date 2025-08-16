@@ -1,0 +1,8 @@
+services:
+  itmo-bot:
+    build: .
+    environment:
+      - TELEGRAM_TOKEN=${TELEGRAM_TOKEN}
+    volumes:
+      - ./src/data:/app/src/data
+    restart: unless-stopped

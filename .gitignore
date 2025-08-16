@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+# Data
+src/data/raw/
+src/data/tfidf_index.pkl
+# OS
+.DS_Store

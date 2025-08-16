@@ -1,0 +1,20 @@
+{
+  "programs": [
+    {
+      "id": "master_ai",
+      "title": "Магистратура: Искусственный интеллект",
+      "url": "https://abit.itmo.ru/program/master/ai",
+      "summary": "",
+      "courses": [],
+      "electives": []
+    },
+    {
+      "id": "master_ai_product",
+      "title": "Магистратура: AI Product",
+      "url": "https://abit.itmo.ru/program/master/ai_product",
+      "summary": "",
+      "courses": [],
+      "electives": []
+    }
+  ]
+}
